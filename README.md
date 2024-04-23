@@ -8,7 +8,7 @@ Artificial intelligence has transformed the manual image analysis done by radiol
 
 For this study, we only used frontal chest x-ray views. As per domain knowledge, lateral views can produce more accurate results for the same study. This can be incorporated as the next part of our study and develop a state-of-the-art classifier for commercialization and practical implementation in radiology and disease classification.
 
-Finally, we also aim to create a screening tool for radiologists to identify the prioritization of different patients for screening based on metrics like number of predicted diseases, heat maps, shape and size of abnormalities detects in image etc.
+Finally, we also aim to create a screening tool for radiologists to identify the prioritization of different patients for screening based on metrics like number of predicted diseases, heat maps, shape and size of abnormalities detects in image etc. 
 Thus, this will aid radiologists through their entire workflow including screening of patient cases, identifying important focus areas in an x-ray image, classifying patients, and improving the process with increased efficiency, accuracy, and sensitivity.
 The reliability of the prediction process can be increased by implementing different available models on the dataset. Choices of layers and activation functions also affect the accuracy of the model.
 
