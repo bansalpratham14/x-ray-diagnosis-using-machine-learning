@@ -1,4 +1,4 @@
-![image](https://github.com/bansalpratham14/x-ray-diagnosis-using-machine-learning/assets/60049210/4cdb7e9f-dcde-400e-946a-ead40bafd41b)# Abstract
+# Abstract
 - Artificial intelligence has transformed the manual image analysis done by radiologists and has impacted the diagnosis of various chest diseases due to the development of new models and growing imaging data in the public domain. A lot of success has been observed with the use of model for single disease identification from an image. 
 
 - But these models have failed to identify and account for multiple diseases with insufficient training data being a major reason. 
